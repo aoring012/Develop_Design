@@ -1,0 +1,6 @@
+Verda
+    LINEが独自に開発したNATサービス
+
+プライベートクラウドを使用
+Cloudera Data Platform
+    データ管理・分析
