@@ -2,7 +2,7 @@ def test_closure(check_value):
     data = []
 
     def add_data(checked_value):
-        if checked_value > check_value:
+        if checked_value >= check_value:
             data.append(checked_value)
 
     def get_data():
